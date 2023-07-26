@@ -1,1 +1,1 @@
-# Attendance-Managment-Module
+# Attendance-Management-Module
